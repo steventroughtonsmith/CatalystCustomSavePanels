@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CatalystCustomSavePanels
+
+  Created by Steven Troughton-Smith on 26/11/2022.
+  
+*/
+
+"BUTTON_EXPORT" = "Export Image…";
+
+"EXPORT_FORMAT_LABEL" = "Format:";
+"EXPORT_TYPE_PNG" = "PNG";
+"EXPORT_TYPE_JPEG" = "JPEG";
